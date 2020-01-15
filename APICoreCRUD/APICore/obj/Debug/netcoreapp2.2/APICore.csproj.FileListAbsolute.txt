@@ -1,0 +1,16 @@
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\APICore.deps.json
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\APICore.runtimeconfig.json
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\APICore.runtimeconfig.dev.json
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\APICore.dll
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\bin\Debug\netcoreapp2.2\APICore.pdb
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.csprojAssemblyReference.cache
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.RazorAssemblyInfo.cache
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.RazorAssemblyInfo.cs
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.AssemblyInfoInputs.cache
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.AssemblyInfo.cs
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.RazorTargetAssemblyInfo.cache
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.dll
+C:\Users\calmeida\source\repos\REST com ASP.NET Core WebAPI - CRUD\APICoreCRUD\APICore\obj\Debug\netcoreapp2.2\APICore.pdb
